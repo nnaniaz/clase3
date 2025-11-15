@@ -1,4 +1,3 @@
-fuction linea(){
-
+function linea(){
+console.log("hola");
 }
-console.log(linea)
