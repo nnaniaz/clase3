@@ -3,8 +3,11 @@ console.log("hola");
 }
 
 
-function dos(){
-    let a = 3
-    let b = 5 
-}
+
+let a = 3
+let b = 5 
 let c = a + b
+
+function dos(){
+   console.log("suma total: " + c) 
+}
